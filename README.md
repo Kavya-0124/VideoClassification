@@ -11,12 +11,12 @@ Otherwise, when the confidence level is below 80%, the text result is shown in r
 
 ### The task includes:
 
- - Cloning the git repository
- - Reading the video file.
- - Preprocessing the video file for classification
- - Performing Classification
- - To display label and confidence on the frame and on video
- - Color detection(R,G,B)
+- Computer Vision(OpenCV)
+- Deep Learning(Tensorflow and Keras)
+- Real time processing
+- Pre trained models
+- Machine learning
+- File handling 
 
 ### Output
 
