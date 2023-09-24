@@ -9,7 +9,7 @@ The key factors of my project:
 When the confidence level is above 80%, the text result is shown in green.
 Otherwise, when the confidence level is below 80%, the text result is shown in red.
 
-### The task included:
+### The task includes:
 
  - Cloning the git repository
  - Reading the video file.
